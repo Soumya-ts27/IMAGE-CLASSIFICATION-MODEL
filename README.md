@@ -126,3 +126,5 @@ The program plots the training and validation accuracy using Matplotlib. This he
 ## Conclusion
 
 This CNN is an effective approach for image classification tasks like CIFAR-10. It leverages convolutional layers for hierarchical feature extraction, followed by dense layers for classification. With appropriate preprocessing, optimization, and evaluation, the model achieves good accuracy, demonstrating its ability to distinguish between various image classes. Additionally, visualizing the accuracy trends helps monitor model performance and make adjustments if necessary.
+
+**OUTPUT**:![Image](https://github.com/user-attachments/assets/6cda3d12-b28f-457c-9cba-79c06427f94f)
